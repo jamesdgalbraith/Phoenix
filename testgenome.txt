@@ -1,0 +1,1 @@
+Acanthisitta_chloris	ASM69581v1.fasta
