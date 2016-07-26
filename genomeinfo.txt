@@ -1,0 +1,71 @@
+Genome name	Species	Common name	Sequencing depth	Assembly (total length)	Scaffolds	Scaffold N50	Scaffold L50	Contigs	Contig N50	Contig L50	Sex	Date	
+ASM69581v1	Acanthisitta chloris	Rifleman	29X	1035876403	53875	64469	4486	120312	20602	14656	F	27/05/2014	
+ASM28112v3	Alligator mississippiensis	American alligator	156X	"2,156,436,551"				"246,719"	"16,610"	"37,753"	?	30/10/2015	
+ASM45574v1	Alligator sinensis	Chinese alligator	109X	"2,270,567,745"	"9,317"	"2,188,296"	325	"177,282"	"23,412"	"28,841"	M	29/08/2013	
+ASM142067v1	Amazona aestiva	Blue-fronted amazon	120X	"1,129,535,839"				74606	23171	11630	?	30/10/2015	
+AV1	Amazona vittata	Puerto Rican amazon	24X	"1,175,404,042"	"182,974"	"19,239"	"16,505"	"295,391"	"6,904"	"47,690"	M	22/01/2012	
+BGI_duck_1.0	Anas platyrhynchos	Peking duck	60X	"1,105,052,351"	"78,488"	"1,233,631"	268	"227,449"	"26,114"	"11,206"	F	26/04/2013	
+AnoCar2.0	Anolis carolinensis	Green aole	7.1X	"1,799,143,587"	"6,646"	"4,033,265"	119	"41,987"	"79,867"	"6,217"	F	10/01/2011	
+AnsCyg_PRJNA183603_v1.0	Anser cygnoides domesticus	Swan goose	107.35X	"1,119,151,626"	"7,593"	"5,202,740"	64	"91,944"	"27,602"	"11,640"	M	8/04/2015	
+ASM70340v1	Apaloderma vittatum	Bar-tailed trogon	28X	"1,070,836,417"	"54,728"	"56,673"	"5,440"	"105,649"	"28,882"	"10,934"	M	16/06/2014	
+ASM69914v1	Aptenodytes forsteri	Emperor penguin	60X	"1,254,347,440"	"10,672"	"5,071,598"	71	"83,173"	"31,730"	"11,116"	M	6/06/2014	
+AptMant0	Apteryx australis mantelli	Brown kiwi	?	"1,523,972,539"	"24,720"	"5,679,020"		"209,195"	"17,252"	"21,821"		21/06/2015	
+Aquila_chrysaetos-1.0.2	Aquila chrysaetos canadensis	Golden eagle	88X	"1,192,743,076"	"1,142"	"9,230,743"	40	"17,032"	"172,329"	"2,004"	M	14/10/2014	
+SMACv1.1	Ara macao	Scarlet macaw	26X	"1,204,700,227"	"192,790"	"15,974"	"21,024"	"504,229"	"4,399"	"61,494"		26/06/2013	
+ASM70989v1	Balearica regulorum	Grey-crowned crane	33X	"1,127,622,302"	"53,491"	"52,178"	"6,181"	"111,850"	"23,331"	"14,477"	M	25/06/2014	
+ASM71030v1	Buceros rhinoceros	Rhinoceros hornbill	35X	"1,065,782,791"	"62,257"	"53,203"	"5,769"	"180,800"	"14,587"	"21,343"	M	25/06/2014	
+ASM143184v1	Calidris pugnax	Ruff	113X	"1,229,094,286"	"3,753"	"10,060,041"	33	"34,157"	"109,237"	"3,054"		4/11/2015	
+ASM69908v1	Calypte anna	Anna's hummingbird	110X	"1,105,676,412"	"54,736"	"4,052,191"	81	"124,820"	"26,738"	"11,601"	F	6/06/2014	
+ASM70074v1	Caprimulgus carolinensis	Chuck-will's-widow	30X	1119683066	"70,122"	"46,345"	"6,762"	"126,789"	"22,156"	"14,874"	M	10/06/2014	
+ASM69053v1	Cariama cristata	Red-legged seriema	24X	"1,132,245,425"	"53,474"	"55,197"	"5,958"	"112,704"	"24,645"	"13,705"	M	12/05/2014	
+ASM69994v1	Cathartes aura	Turkey vulture	25X	"1,152,571,117"	"104,141"	"36,359"	"8,777"	"216,823"	"15,248"	"20,795"	F	11/06/2014	
+ChaPel_1.0	Chaetura pelagica	Chimney swift	106X	"1,119,188,094"	"19,072"	"3,841,852"	78	"84,595"	"30,757"	"10,349"	F	4/09/2014	
+ASM70802v2	Charadrius vociferus	Killdeer	100X	"1,219,859,583"	"15,167"	"3,657,050"	98	"79,162"	"39,278"	"8,893"	F	5/08/2014	
+ASM69519v1	Chlamydotis macqueenii	Macqueen's bustard	27X	"1,086,566,339"	"59,693"	"45,221"	"6,888"	"115,823"	"21,641"	"14,968"	M	2/06/2014	
+Chrysemys_picta_bellii-3.0.3	Chrysemys picta bellii	Western painted turtle	15X	"2,365,766,571"	"78,631"	"6,605,846"	102	"262,326"	"21,349"	"29,024"		31/03/2014	
+ASM69071v1	Colius striatus	Speckled mousebird	27X	"1,075,931,597"	"70,188"	"46,063"	"6,512"	"114,650"	"25,860"	"12,120"	M	13/05/2014	
+Cliv_1.0	Columba livia	Pigeon	63X	"1,107,989,085"	"14,923"	"3,148,738"	82	"100,099"	"26,579"	"12,141"	M	11/02/2013	
+ASM69197v1	Corvus brachyrhynchos	American crow	80X	"1,091,312,783"	"10,547"	"6,953,989"	49	"89,646"	"29,093"	"10,509"	F	2/06/2014	
+Hooded_Crow_genome	Corvus cornix cornix	Hooded crow	152X	"1,049,964,851"	"1,299"	"16,358,221"	19	"28,920"	"94,375"	"2,953"	M	12/08/2014	
+Coturnix_japonica_2.0	Coturnix japonica	Japanese quail	73X	"927,656,957"	"2,531"	"2,975,000"	86	"9,642"	"511,217"	515	M	1/03/2016	
+Cpor_2.0	Crocodylus porosus	Saltwater crocodile	74X	"2,120,573,303"	"23,365"	"204,532"	"2,891"	"112,407"	"32,735"	"18,929"	M	24/10/2014	
+ASM70932v1	Cuculus canorus	Common cuckoo	100X	"1,153,894,225"	"14,930"	"2,989,832"	119	"71,907"	"38,137"	"8,811"	M	17/06/2014	
+ASM68718v1	Egretta garzetta	Little egret	74X	"1,206,501,934"	"11,791"	"3,067,157"	113	"100,662"	"29,019"	"11,667"	M	9/05/2014	
+ASM69077v1	Eurypyga helias	Sunbittern	33X	"1,088,019,637"	"62,699"	"47,243"	"6,386"	"115,170"	"24,402"	"12,843"	F	13/05/2014	
+F_cherrug_v1.0	Falco cherrug	Saker falcon	147X	"1,174,811,715"	"5,863"	"4,154,532"	84	"75,898"	"31,327"	"10,949"	M	5/02/2013	
+F_peregrinus_v1.0	Falco peregrinus	Peregrine falcon	137.6X	"1,171,973,431"	"7,021"	"3,935,757"	90	"83,081"	"28,645"	"12,168"	M	5/02/2013	
+ASM69083v1	Fulmarus glacialis	Northern fulmar	33X	"1,141,395,646"	"57,389"	"47,208"	"7,016"	"112,214"	"25,926"	"13,102"	M	13/05/2014	
+Gallus_gallus-5.0	Gallus gallus	Chicken	70X	"1,230,258,557"	"23,870"	"6,379,610"	47	"24,693"	"2,894,815"	110	F	16/12/2015	
+ASM69087v1	Gavia stellata	Red-throated loon	33X	"1,129,694,867"	"61,831"	"45,523"	"7,096"	"126,713"	"24,321"	"13,686"	M	13/05/2014	
+ggan_v0.2	Gavialis gangeticus	Indian gharial	81X	"2,188,353,730"	"47,351"	"100,817"	"6,437"	"297,686"	"14,195"	"44,972"	F	14/11/2014	
+GeoFor_1.0	Geospiza fortis	Medium ground finch	115X	"1,065,292,181"	"27,239"	"5,255,844"	54	"95,828"	"30,521"	"9,807"	F	25/07/2012	
+ASM69140v1	Haliaeetus albicilla	White-tailed eagle	26X	"1,133,549,865"	"50,905"	"57,319"	"5,758"	"111,484"	"25,143"	"13,446"	M	15/05/2014	
+Haliaeetus_leucocephalus-4.0	Haliaeetus leucocephalus	Bald eagle	103X	"1,178,409,481"	"1,023"	"9,145,499"	40	"31,786"	"105,493"	"3,144"	M	4/08/2014	
+ASM69178v1	Leptosomus discolor	Cuckoo-roller	32X	"1,136,244,952"	"57,160"	"62,640"	"5,157"	"113,170"	"24,735"	"13,631"	M	23/05/2014	
+ASM69201v2	Manacus vitellinus	Golden-collared manakin	110X	"1,145,854,002"	"92,755"	"2,558,866"	124	"138,155"	"43,697"	"6,945"	F	1/08/2014	
+Turkey_5.0	Meleagris gallopavo	Turkey	35X	"1,128,339,136"	"233,806"	"3,801,642"	82	"296,331"	"26,671"	"11,556"	F	24/11/2014	
+Melopsittacus_undulatus_6.3	Melopsittacus undulatus	Budgerigar	"""16x 454; 7x Illumina"""	"1,117,373,619"	"25,212"	"10,614,383"	28	"70,863"	"55,633"	"5,478"	M	2/01/2012	
+ASM69184v1	Merops nubicus	Carmine bee-eater	37X	"1,062,961,556"	"53,499"	"48,089"	"6,132"	"104,131"	"24,675"	"12,573"	F	16/05/2014	
+ASM69576v1	Mesitornis unicolor	Brown mesite	29X	"1,087,290,853"	"67,520"	"47,102"	"6,540"	"119,122"	"22,740"	"14,204"	F	2/06/2014	
+ASM69687v1	Nestor notabilis	Kea	32X	"1,053,559,886"	"42,180"	"61,475"	"4,935"	"93,561"	"26,546"	"11,852"	M	5/06/2014	
+ASM70822v1	Nipponia nippon	Crested ibis	105X	"1,223,863,029"	"59,555"	"5,211,696"	66	"130,030"	"29,116"	"12,209"	M	16/06/2014	
+ASM69207v1	Ophisthocomus hoazin	Hoatzin	100X	"1,203,712,246"	"10,256"	"2,937,227"	122	"109,627"	"28,179"	"11,760"	F	19/05/2014	
+Parus_major1.0.3	Parus major	Great tit	95X	"1,020,309,133"	"1,676"	"71,365,269"	5	"24,044"	"148,693"	"1,868"	M	2/02/2016	
+ASM68737v1	Pelecanus crispus	Dalmatian pelican	34X	"1,160,924,693"	"63,982"	"43,364"	"7,852"	"121,562"	"21,679"	"16,160"	M	9/05/2014	
+ASM68728v1	Phaethon lepturus	White-tailed tropicbird	39X	"1,152,958,507"	"66,785"	"47,896"	"6,817"	"132,071"	"22,941"	"14,707"	F	8/05/2014	
+ASM70892v1	Phalacrocorax carbo	Great cormorant	24X	"1,138,967,842"	"64,312"	"48,427"	"6,715"	"162,787"	"17,343"	"19,360"	M	17/06/2014	
+ASM68726v1	Phoenicopterus ruber	American flamingo	33X	"1,132,184,511"	"76,189"	"38,071"	"8,592"	"137,480"	"20,262"	"16,707"	M	8/05/2014	
+ASM69900v1	Picoides pubescens	Downy woodpecker	105X	"1,167,323,935"	"31,254"	"2,093,929"	168	"127,725"	"24,809"	"12,353"	F	6/06/2014	
+ASM69954v1	Podiceps cristatus	Great-crested grebe	30X	"1,134,922,578"	"82,923"	"30,087"	"11,042"	"152,268"	"17,412"	"19,471"	M	11/06/2014	
+PseHum1.0	Pseudopodoces humilis	Tibetan ground-tit	96.25X	"1,042,997,632"	"5,406"	"16,337,386"	16	"27,052"	"165,265"	"1,794"		11/01/2013	
+ASM69924v1	Pterocles gutturalis	Yellow-thoated sandgrouse	25X	"1,069,324,295"	"58,607"	"49,530"	"6,164"	"107,160"	"26,448"	"12,048"	M	9/06/2014	
+ASM69910v1	Pygoscelis adeliae	Adelie penguin	60X	"1,216,617,519"	"19,265"	"5,118,896"	72	"114,374"	"22,195"	"15,872"	M	6/06/2014	
+SCA1	Serinus canaria	Common canary		"1,152,100,110"	"304,400"	"17,815,079"	13	"358,420"	"53,884"	"5,339"	?	115/01/2014	
+ASM69896v1	Struthio camelus	Common ostrich	85X	"1,225,041,896"	"6,915"	"3,593,425"	101	"79,564"	"34,997"	"10,064"	F	6/06/2014	
+Sturnus_vulgaris-1.0	Sturnus vulgaris	Common starling	74X	"1,036,775,994"	"2,361"	"3,416,708"	89	"22,666"	"151,865"	"1,828"		20/11/2015	
+Taeniopygia_guttata-3.2.4	Taeniopygia guttata	Zebra finch	5.5X	"1,232,135,591"	"37,422"	"8,236,790"	37	"124,806"	"38,639"	"8,016"	M	8/02/2013	
+ASM70936v1	Tauraco erythrolophus	Red-crested turaco	30X	"1,155,540,733"	"59,587"	"56,334"	"5,784"	"134,672"	"22,885"	"14,965"	M	25/06/2014	
+ASM70537v2	Tinamus guttatus	White-throated tinamou	100X	"1,047,056,493"	"82,514"	"246,268"	"1,147"	"142,367"	"29,773"	"9,877"	F	5/08/2015	
+ASM68720v1	Tyto alba	Barn owl	27X	"1,120,143,088"	"62,122"	"52,818"	"5,943"	"171,345"	"17,226"	"18,680"	F	8/05/2015	
+Zonotrichia_albicollis-1.0.1	Zonotrichia albicollis	White-throated sparrow	63X	"1,052,600,561"	"6,018"	"4,866,725"	52	"37,661"	"112,748"	"2,385"	M	30/04/2013	
+ASM128173v1	Zosterops lateralis melanops	Silver-eye	64X	"1,036,003,386"				"62,852"	"34,514"	"8,267"		14/09/2015	
