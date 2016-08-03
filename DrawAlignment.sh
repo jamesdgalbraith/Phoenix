@@ -18,8 +18,8 @@ while read "name"
 do
 
         # -seq1 and seq2  are the path to the sequence, -matrix the path to the matrix and -outfile the location for the constructed png 
-        java -cp ~/Workspace/gepard/dist/Gepard-1.40.jar org.gepard.client.cmdline.CommandLine -seq1 ~/Workspace/Cluster/AlignmentFASTAs/AADN04000661.1:5683-9378_rev_Gallus_gallus.fasta -seq2 ~/Workspace/Cluster/AlignmentFASTAs/AADN04000661.1:5683-9378_rev_Gallus_gallus.fasta -matrix ~/Workspace/gepard/resources/matrices/edna.mat -outfile ~/Workspace/Cluster/AlignmentPNGs6/AADN04000661.1:5683-9378_rev_Gallus_gallus.fasta6.png -word 6
-		java -cp ~/Workspace/gepard/dist/Gepard-1.40.jar org.gepard.client.cmdline.CommandLine -seq1 ~/Workspace/Cluster/AlignmentFASTAs/AADN04000661.1:5683-9378_rev_Gallus_gallus.fasta -seq2 ~/Workspace/Cluster/AlignmentFASTAs/AADN04000661.1:5683-9378_rev_Gallus_gallus.fasta -matrix ~/Workspace/gepard/resources/matrices/edna.mat -outfile ~/Workspace/Cluster/AlignmentPNGs9/AADN04000661.1:5683-9378_rev_Gallus_gallus.fasta6.png -word 9
+        java -cp ~/Workspace/gepard/dist/Gepard-1.40.jar org.gepard.client.cmdline.CommandLine -seq1 ~/Workspace/Cluster/AlignmentFASTAs/${name} -seq2 ~/Workspace/Cluster/AlignmentFASTAs/${name} -matrix ~/Workspace/gepard/resources/matrices/edna.mat -outfile ~/Workspace/Cluster/AlignmentPNGs6/${name}6.png -word 6
+		java -cp ~/Workspace/gepard/dist/Gepard-1.40.jar org.gepard.client.cmdline.CommandLine -seq1 ~/Workspace/Cluster/AlignmentFASTAs/${name} -seq2 ~/Workspace/Cluster/AlignmentFASTAs/${name} -matrix ~/Workspace/gepard/resources/matrices/edna.mat -outfile ~/Workspace/Cluster/AlignmentPNGs9/${name}6.png -word 9
 
 
 done <"/home/a1194388/Workspace/Cluster/FASTANames.txt"
