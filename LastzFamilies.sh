@@ -24,7 +24,6 @@ module load BEDTools/2.25.0-foss-2015b
         mkdir -p ~/RunFamilyChecks/$FAMILY/Lastz/Results/${GENOME}
         cd ~/RunFamilyChecks/$FAMILY/Lastz/Results/${GENOME}
         mkdir -p Hits
-        mkdir -p FASTA
         cd Hits
 
         # Print species name
